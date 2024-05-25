@@ -1,7 +1,52 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #img_raven {
     height: 15%;
     width: 15%;
     margin: 10px;
     border-radius: 50%;
+    border-style: groove;
+    border-width: 10px;
+    border-color: white;
 
 }
+
+html{
+    background-color: #E9FFC2;
+}
+
+header{
+    background-color: #E9FFC2;
+    margin-bottom: 0px;
+}
+
+
+#justMe{
+    background-color: #E9FFC2;
+    margin: auto;
+    padding-top: none;
+    width: 20%;
+    border-bottom:dotted;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-color: #66850a;
+    border-width: 10px;
+}
+main{
+    background-color: #E9FFC2;
+    padding-top: 10%;
+    color: #416D19;
+}
+
+.nav_li{
+    display: inline;
+    padding:10px;
+}
+
+
+
+
+

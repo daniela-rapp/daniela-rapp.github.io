@@ -27,8 +27,8 @@ header{
     background-color: #E9FFC2;
     margin: auto;
     padding-top: none;
-    width: 20%;
-    border-bottom:dotted;
+    width: 50%;
+    border-bottom-style:dotted;
     border-left: none;
     border-right: none;
     border-top: none;
@@ -39,8 +39,6 @@ main{
     background-color: #E9FFC2;
     color: #416D19;
     padding-top: 0%;
-    position: absolute;
-    top: 10%;
 }
 
 .nav_li{

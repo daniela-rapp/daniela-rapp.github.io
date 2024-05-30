@@ -47,6 +47,9 @@ main{
 }
 
 
-#frontSideNav{margin: 10px;}
+#frontSideNav{
+    margin: 10px;
+    position: absolute;
+}
 
 

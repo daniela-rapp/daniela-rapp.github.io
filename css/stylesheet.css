@@ -37,8 +37,10 @@ header{
 }
 main{
     background-color: #E9FFC2;
-    padding-top: 10%;
     color: #416D19;
+    padding-top: 0%;
+    position: absolute;
+    top: 10%;
 }
 
 .nav_li{
@@ -49,7 +51,8 @@ main{
 
 #frontSideNav{
     margin: 10px;
-    position: absolute;
+    position: fixed;
+    top: 1px;
 }
 
 
